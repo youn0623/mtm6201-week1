@@ -7,7 +7,7 @@ img{
 }
 /* when putting screen closer to mobile, text wraps aroung the image */
 p{
-    padding-bottom: 50px;
+    padding-bottom: 60px;
 }
 dt{
     font-size: 1.15rem;
